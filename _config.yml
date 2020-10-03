@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Marwan Taher"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Marwan Taher"
 description              : &description "personal description"

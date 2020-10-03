@@ -8,7 +8,7 @@ The European Rover Challenge (ERC) is an international space robotics competitio
 and build rovers to perform tasks analogous to those performed by rovers on the surface of Mars and
 the Moon. I am part of the team at the university called MarsWorks.
 
-![Planning video](/images/marsworks.gif)
+<iframe src="https://www.youtube.com/embed/jNA-4pEMKtk"></iframe>
 
 ## Tasks
 

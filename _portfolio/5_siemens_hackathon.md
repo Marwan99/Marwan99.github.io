@@ -11,10 +11,7 @@ actuators, and we also had access to laser cutters and 3D printers, the challeng
 power data collected from a building using a demonstration. My team built a heart using servos, which was
 beating, along with RGB LED strips and fan shaking foam balls around, each element of the demonstration was representing a variable in the provided data.
 
-<img src="/images/siemens_hackathon.gif" width="250" height="250" class="center"/>
-
-
-Video [link](https://www.youtube.com/watch?v=0mDepWoTrBQ)
+<iframe src="https://www.youtube.com/embed/0mDepWoTrBQ"></iframe>
 
 ## Task
 

@@ -1,6 +1,6 @@
 ---
 title: "MATE ROV"
-excerpt: "Underwater robotics competition<br/><img src='/images/rov.gif' width='500' height='300'>"
+excerpt: "Underwater robotics competition<br/><img src='https://drive.google.com/file/d/1HLoqBfSznF3QuwcJiFWb9UOuLmgbJu6J/view?usp=sharing' width='500' height='300'>"
 collection: portfolio
 ---
 
@@ -10,7 +10,7 @@ an underwater robotics team to participate in this competition.
 I can easily say that by far this is the project that taught me the most about the different systems
 of a robot.
 
-![ROV video](/images/rov.gif)
+<iframe src="https://www.youtube.com/embed/s9rLAJ2ICHw"></iframe>
 
 ROV 2017 - Maneuverability test. Video [link](https://www.youtube.com/watch?v=s9rLAJ2ICHw)
 
@@ -36,10 +36,10 @@ components worth £5,500 from RS and MacArtney) and writing proposals.
 ## Results
 
 All these activities took place across the 4 years I have been participating in this competition,
-this year I was team’s CEO, we go the 11​ the
+in 2019 I was team’s CEO, we go the 11​ the
 place out of 25 teams in the international competition which took place in Kingsport,
 Tennessee and we were the 9​ th​ in the underwater product demonstration and the top team
-from the UK. Also this year I was awarded one of the 3 MVP Engineering Pretension Awards
+from the UK. Also in 2019 I was awarded one of the 3 **MVP Engineering Pretension Awards**
 in the explorers category (university category). In the previous years I was the team’s CTO,
 so I was more focused on the technical aspects of the robot.
 
