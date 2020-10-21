@@ -14,6 +14,8 @@ PDF [version](https://drive.google.com/file/d/1UK0_Sg46OszPWeG2tXUfCK1WICtQ15oM/
 Education
 ======
 * MEng Mechatronics and Robotics Engineering, The University of Sheffield, 2016-2021
+
+  Currently working on my final year project - **SLAM in Outdoor Environments**
 * IGCSEs & A-Levels, Al-Bashaer International School, 2013 - 2016
 
 Work experience
@@ -22,8 +24,8 @@ Work experience
   *[The University of Sheffield](sheffield.ac.uk)*
   * Part of the [AdMall](https://sites.google.com/view/fairsapce-admall/) project, working with the Dr. Kevin Li Sun.
   * Working on multi-sensor mapping.
-  * Worked on robot setup
-    * Sensors hardware mounting (Lidar, IMU and stereo camera)
+  * Worked on setting up the robot's
+    * Sensors (Lidar, IMU and stereo camera)
     * Odometery
     * TF
 
@@ -72,7 +74,7 @@ Work experience
 Skills
 ======
 * Software
-  * C++, Python, Matlab & LabVIEW
+  * C, C++ & Python
   * ROS & ROS2
   * Unit testing (pytest, gtest), CI, git and cmake
 
