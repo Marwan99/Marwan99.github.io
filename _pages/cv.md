@@ -26,8 +26,7 @@ Work experience
   * Working on multi-sensor mapping.
   * Worked on setting up the robot's
     * Sensors (Lidar, IMU and stereo camera)
-    * Odometery
-    * TF
+    * Odometry
 
 * Jan - June 2020: Design Systems Intern
   *[Rolls-Royce](https://www.rolls-royce.com/)*
