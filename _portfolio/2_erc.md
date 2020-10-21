@@ -32,6 +32,7 @@ Unfortunately due the pandemic no testing was done on hardware and all the testi
 <iframe src="https://www.youtube.com/embed/jNA-4pEMKtk"></iframe>
 
 
+
 In hindsight I think that there are a couple of problems with the system proposed above:
 * Planning with the assumption that the world is empty until visited is not a very good assumption, especially that we are relaying on cameras with 
 a small field of view for mapping. This might lead to the robot to not taking the shortest/safest route to the goal.
