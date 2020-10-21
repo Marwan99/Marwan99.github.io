@@ -1,6 +1,6 @@
 ---
 title: "Sir William Siemens Challenge"
-excerpt: "Hackathon<br/><img src='/images/siemens_hackathon.gif' width='200'>"
+excerpt: "Hackathon<br/><img src='/images/siemens.gif' width='200'>"
 collection: portfolio
 ---
 

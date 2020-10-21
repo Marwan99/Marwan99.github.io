@@ -1,6 +1,6 @@
 ---
 title: "MATE ROV"
-excerpt: "Underwater robotics competition<br/><img src='https://drive.google.com/file/d/1HLoqBfSznF3QuwcJiFWb9UOuLmgbJu6J/view?usp=sharing' width='500' height='300'>"
+excerpt: "Underwater robotics competition<br/><img src='/images/rov.gif' width='500' height='300'>"
 collection: portfolio
 ---
 
@@ -12,7 +12,7 @@ of a robot.
 
 <iframe src="https://www.youtube.com/embed/s9rLAJ2ICHw"></iframe>
 
-ROV 2017 - Maneuverability test. Video [link](https://www.youtube.com/watch?v=s9rLAJ2ICHw)
+ROV 2017 - Maneuverability test.
 
 ## Tasks
 
