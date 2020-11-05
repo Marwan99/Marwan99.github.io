@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-PDF [version](https://drive.google.com/file/d/1Z5jNHH-zev5Af-fERlpgrTW5elvhfTTK/view?usp=sharing)
+PDF [version](https://drive.google.com/file/d/1JQNpLMly3z8BWXKphtUsogDmg8izR-FP/view?usp=sharing)
 
 Education
 ======
@@ -24,9 +24,10 @@ Work experience
   *[The University of Sheffield](sheffield.ac.uk)*
   * Part of the [AdMall](https://sites.google.com/view/fairsapce-admall/) project, working with the Dr. Kevin Li Sun.
   * Working on multi-sensor mapping.
-  * Worked on setting up the robot's
+  * Worked on setting up
     * Sensors (Lidar, IMU and stereo camera)
     * Odometry
+    * TF
 
 * Jan - June 2020: Design Systems Intern
   *[Rolls-Royce](https://www.rolls-royce.com/)*
@@ -75,7 +76,7 @@ Skills
 * Software
   * C, C++ & Python
   * ROS & ROS2
-  * Unit testing (pytest, gtest), CI, git and cmake
+  * Unit testing (pytest, gtest), git, cmake, CI and code reviews
 
 * Electronics
   * Circuit and PCB design (KiCad)
