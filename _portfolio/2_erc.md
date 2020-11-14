@@ -33,7 +33,7 @@ until mapped and the correct height information was recorded in the map. The A* 
 <iframe src="https://www.youtube.com/embed/jNA-4pEMKtk"></iframe>
 
 Unfortunately due the pandemic no testing was done on hardware and all the testing was done in simulation on Gazebo as shown in the video above,
-the [Canadian Planetary Emulation Terrain 3D Mapping Dataset](http://asrl.utias.utoronto.ca/datasets/3dmap/) was used in the simulated testing, eventually the competition got cancelled as well.
+the [Canadian Planetary Emulation Terrain 3D Mapping Dataset](http://asrl.utias.utoronto.ca/datasets/3dmap/) was used in the simulated testing. Eventually the competition got cancelled as well.
 
 In hindsight I think that there are a couple of problems with the system proposed above:
 * Planning with the assumption that the world is empty until visited is not a very good assumption, especially that we are relaying on cameras with 

@@ -36,7 +36,7 @@ components worth £5,500 from RS and MacArtney) and writing proposals.
 ## Results
 
 All these activities took place across the 4 years I have been participating in this competition,
-in 2019 I was team’s CEO, we go the 11​ the
+in 2019 I was team’s CEO, we got the 11​ the
 place out of 25 teams in the international competition which took place in Kingsport,
 Tennessee and we were the 9​ th​ in the underwater product demonstration and the top team
 from the UK. Also in 2019 I was awarded one of the 3 **MVP Engineering Pretension Awards**
