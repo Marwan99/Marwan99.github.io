@@ -1,6 +1,6 @@
 ---
 title: "Long-term Visual Teach-and-Repeat Navigation using a Single Topological Map"
-excerpt: "Autonomous Navigation"
+excerpt: "Autonomous Navigation<br/><img src='/images/kidnap.gif' width='500' height='300'>"
 collection: publications
 ---
 
@@ -24,6 +24,11 @@ and fisheye cameras to handle changes in the lighting conditions as well as aggr
     * Designing and manufacturing the sensors and laptop mounting hardware.
     * Setting up the motor drivers to run in closed loop.
 - Helped with the paper submitted for ICRA 2021 (currently under review).
+
+<div style="text-align:center">
+    <img src="/images/pointcloud_align.gif" width='400' />
+    <figcaption>Pointcloud and trajectory alignment using ICP.</figcaption>
+</div>
 
 <div style="text-align:center">
     <img src="/images/jaguar.jpg" width='400' />
