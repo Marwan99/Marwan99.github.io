@@ -35,5 +35,5 @@ and fisheye cameras to handle changes in the lighting conditions as well as aggr
     <figcaption>Jaguar and it's sensor suit.</figcaption>
 </div>
 
-- Navigation code repository [github](https://github.com/kevinlisun/jaguar_nav)
+- Navigation code repository [github](https://github.com/kevinlisun/stroll_bearnav)
 - ICP aligning tool [github](https://github.com/Marwan99/pointcloud_align)
