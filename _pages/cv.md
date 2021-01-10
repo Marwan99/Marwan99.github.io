@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-PDF [version](https://drive.google.com/file/d/1JQNpLMly3z8BWXKphtUsogDmg8izR-FP/view?usp=sharing)
+PDF [version](https://drive.google.com/file/d/1C0FSpefqJtoFjquGSJbr1lq3cr-8wPQ4/view?usp=sharing)
 
 Education
 ======
 * MEng Mechatronics and Robotics Engineering, The University of Sheffield, 2016-2021
 
-  Currently working on my final year project - **SLAM in Outdoor Environments**
+  Currently working on my final year project - **Robust SLAM in Outdoor Environments**
 * IGCSEs & A-Levels, Al-Bashaer International School, 2013 - 2016
 
 Work experience
